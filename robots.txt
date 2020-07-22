@@ -4,12 +4,15 @@ Allow: /archives/
 Allow: /categories/
 Allow: /tags/ 
 Allow: /resources/ 
+Allow: /posts/
+Allow: /page/
 Disallow: /vendors/
 Disallow: /js/
 Disallow: /css/
 Disallow: /fonts/
 Disallow: /vendors/
 Disallow: /fancybox/
+Disallow: /amp-dist/
 
 Sitemap: https://freegfw.cf/sitemap.xml
 Sitemap: https://freegfw.cf/baidusitemap.xml
