@@ -6,7 +6,7 @@ Allow: /tags/
 Allow: /resources/ 
 Allow: /posts/
 Allow: /page/
-Allow: /amp-dist/
+Allow: /amp/
 
 Disallow: /vendors/
 Disallow: /js/
