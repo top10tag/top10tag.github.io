@@ -6,13 +6,14 @@ Allow: /tags/
 Allow: /resources/ 
 Allow: /posts/
 Allow: /page/
+Allow: /amp-dist/
+
 Disallow: /vendors/
 Disallow: /js/
 Disallow: /css/
 Disallow: /fonts/
 Disallow: /vendors/
 Disallow: /fancybox/
-Disallow: /amp-dist/
 
 Sitemap: https://freegfw.cf/sitemap.xml
 Sitemap: https://freegfw.cf/baidusitemap.xml
