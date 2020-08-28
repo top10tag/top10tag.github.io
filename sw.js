@@ -24,11 +24,11 @@ var precacheUrls = [];
 
   precacheUrls.push('/');
 
+  precacheUrls.push('/posts/ed4a4be9.html');
+
   precacheUrls.push('/posts/e33a03cc.html');
 
   precacheUrls.push('/posts/ce7f07f4.html');
-
-  precacheUrls.push('/posts/ed4a4be9.html');
 
   precacheUrls.push('/posts/aba45e6e.html');
 
@@ -38,9 +38,9 @@ var precacheUrls = [];
 
   precacheUrls.push('/posts/d1267184.html');
 
-  precacheUrls.push('/posts/69832d3d.html');
-
   precacheUrls.push('/posts/186d4656.html');
+
+  precacheUrls.push('/posts/69832d3d.html');
 
   precacheUrls.push('/posts/614351eb.html');
 
